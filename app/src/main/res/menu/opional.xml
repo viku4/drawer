@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/arman"
+        android:title="arman ansari"/>
+    <item android:id="@+id/ali"
+        android:title="ali rasan"/>
+    <item android:id="@+id/nehu"
+        android:title="nehal kumar"/>
+    <item android:id="@+id/viku"
+        android:title="vikash kumar"/>
+</menu>
